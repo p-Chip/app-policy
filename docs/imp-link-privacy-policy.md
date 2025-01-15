@@ -1,4 +1,4 @@
-# Privacy Policy for IMP Link
+# Privacy Policy for IMP Linker
 
 **Effective Date**: January 15, 2025
 
