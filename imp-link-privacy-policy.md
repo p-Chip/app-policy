@@ -84,5 +84,6 @@ If you have questions or concerns about this Privacy Policy or your data, please
 **Email**: [info@p-chip.com](mailto:info@p-chip.com)
 
 **Address**:  
+p-Chip Corporation  
 500 W Madison St, Suite 1000  
 Chicago, IL 60661 USA
