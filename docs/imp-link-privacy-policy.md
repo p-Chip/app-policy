@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # IMP Link Privacy Policy
 
 **Effective Date**: January 15, 2025
