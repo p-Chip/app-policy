@@ -15,9 +15,9 @@ p-Chip Corporation ("we," "our," or "us") respects your privacy and is committed
 We may collect the following types of information from users and their devices:
 
 ### 1.1 Information You Provide
-- **Authentication Credentials**: A **username and password** may be required to access the App.
+- **Authentication Credentials**: A username and password may be required to access the App.
 - **Personal Information**: If provided, such as your name and email address for user registration or support interactions.
-- **Files and Attachments**: The App allows users to **attach photos, images, and files** from their device or camera to scan events.
+- **Files and Attachments**: The App allows users to attach photos, images, and files from their device or camera to scan events.
 
 ### 1.2 Device Information
 - **Device-Specific Details**: Such as hardware model, operating system version, unique device identifiers, and mobile network information.
@@ -30,7 +30,7 @@ We may collect the following types of information from users and their devices:
 - **Location Services**: Location data is used **for authentication, app functionality, and tracking scan events**.
 - **Cloud Storage**: Every scan performed by the App may include:
   - **Location data**
-  - **Date/time of the scan**
+  - **Date/time of the scan event**
   - **User-provided photos, images, and files**
   - **Scan event ID**
   - These are securely stored in a cloud database for processing and record-keeping.
@@ -41,7 +41,7 @@ We may collect the following types of information from users and their devices:
 
 We use the collected information to:
 - Authenticate and provide secure access to the App.
-- Enable App features that require **location, Bluetooth connectivity, and file attachments**.
+- Enable App features that require location, Bluetooth connectivity, and file attachments.
 - Record scan events (including location, images, and files) in a secure cloud database.
 - Maintain and enhance the user experience.
 - Respond to user inquiries and provide support.
@@ -62,9 +62,9 @@ We do not sell, rent, or share your personal information. However, we may disclo
 We store your data securely using industry-standard measures. However, no method of transmission over the internet or electronic storage is 100% secure. We cannot guarantee absolute security but strive to protect your information.
 
 **Storage of Attachments:**
-- Any **photos, images, or files** uploaded by the user as part of a scan event are securely stored in a cloud database.
-- These attachments are **only accessible to authorized users** within the App.
-- Users should avoid uploading **sensitive personal documents or confidential information** unless required.
+- Any photos, images, or files uploaded by the user as part of a scan event are securely stored in a cloud database.
+- These attachments are only accessible to authorized users within the App.
+- Users should avoid uploading sensitive personal documents or confidential information unless required.
 
 ---
 
@@ -81,7 +81,7 @@ To exercise these rights, contact us at [info@p-chip.com](mailto:info@p-chip.com
 
 ## 6. Children’s Privacy
 
-The App is intended for business and industrial use and is **not designed for children**. We do not knowingly collect personal information from children under 18. If we become aware that such information has been collected, we will take steps to delete it.
+The App is intended for business and industrial use and is not designed for children. We do not knowingly collect personal information from children under 18. If we become aware that such information has been collected, we will take steps to delete it.
 
 ---
 
