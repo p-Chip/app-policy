@@ -15,23 +15,28 @@ p-Chip Corporation ("we," "our," or "us") respects your privacy and is committed
 We may collect the following types of information from users and their devices:
 
 ### 1.1 Information You Provide
-- Personal information, such as your name and email address, if provided during user registration or support interactions.
+- **Authentication Credentials**: A **username and password** may be required to access the App.
+- **Personal Information**: If provided, such as your name and email address for user registration or support interactions.
 
 ### 1.2 Device Information
-- Device-specific details, such as hardware model, operating system version, unique device identifiers, and mobile network information.
+- **Device-Specific Details**: Such as hardware model, operating system version, unique device identifiers, and mobile network information.
 
 ### 1.3 App Usage Information
-- Information about how you use the App, including interaction logs and features accessed.
+- **Usage Data**: Information about how you use the App, including interaction logs and features accessed.
 
 ### 1.4 Bluetooth and Location Data
-- The App uses Bluetooth to connect to external devices (e.g., IMP Readers). Location access may be required to support Bluetooth functionality. We do not store or share this data.
+- **Bluetooth**: The App uses Bluetooth to connect to external devices (e.g., IMP Readers).
+- **Location Services**: Location data is used **for authentication, app functionality, and tracking scan events**.  
+- **Cloud Storage**: Every scan performed by the App **includes location data, date/time, and scan ID** and is sent to a secure cloud database for processing and record-keeping.
 
 ---
 
 ## 2. How We Use Your Information
 
 We use the collected information to:
-- Provide and improve the App’s functionality.
+- Authenticate and provide secure access to the App.
+- Enable App features that require location and Bluetooth connectivity.
+- Record scan events in a secure cloud database.
 - Maintain and enhance the user experience.
 - Respond to user inquiries and provide support.
 - Comply with legal obligations.
@@ -40,9 +45,9 @@ We use the collected information to:
 
 ## 3. Sharing Your Information
 
-We do not sell or rent your personal information. However, we may share information:
-- **With Service Providers**: To perform app analytics, troubleshooting, and support.
+We do not sell, rent, or share your personal information. However, we may disclose information:
 - **For Legal Compliance**: If required by law or to protect our legal rights.
+- **Cloud Storage Services**: Scan event data (including location) is stored securely in our cloud database.
 
 ---
 
@@ -63,25 +68,19 @@ To exercise these rights, contact us at [info@p-chip.com](mailto:info@p-chip.com
 
 ---
 
-## 6. Third-Party Links
+## 6. Children’s Privacy
 
-The App may include links to third-party websites. We are not responsible for the privacy practices of these websites and encourage you to review their privacy policies.
-
----
-
-## 7. Children’s Privacy
-
-The App is not intended for use by children under the age of 18. We do not knowingly collect personal information from children.
+The App is intended for business and industrial use and is **not designed for children**. We do not knowingly collect personal information from children under 18. If we become aware that such information has been collected, we will take steps to delete it.
 
 ---
 
-## 8. Changes to This Privacy Policy
+## 7. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. We will notify you of changes by updating the “Effective Date” at the top of this policy. We encourage you to review this Privacy Policy periodically.
 
 ---
 
-## 9. Contact Us
+## 8. Contact Us
 
 If you have questions or concerns about this Privacy Policy or your data, please contact us:
 
