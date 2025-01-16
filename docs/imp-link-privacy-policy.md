@@ -67,7 +67,7 @@ The App may include links to third-party websites. We are not responsible for th
 
 ## 7. Children’s Privacy
 
-The App is not intended for use by children under the age of 13. We do not knowingly collect personal information from children.
+The App is not intended for use by children under the age of 18. We do not knowingly collect personal information from children.
 
 ---
 
