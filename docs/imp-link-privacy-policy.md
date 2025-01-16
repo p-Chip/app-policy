@@ -17,6 +17,7 @@ We may collect the following types of information from users and their devices:
 ### 1.1 Information You Provide
 - **Authentication Credentials**: A **username and password** may be required to access the App.
 - **Personal Information**: If provided, such as your name and email address for user registration or support interactions.
+- **Files and Attachments**: The App allows users to **attach photos, images, and files** from their device or camera to scan events.
 
 ### 1.2 Device Information
 - **Device-Specific Details**: Such as hardware model, operating system version, unique device identifiers, and mobile network information.
@@ -24,10 +25,15 @@ We may collect the following types of information from users and their devices:
 ### 1.3 App Usage Information
 - **Usage Data**: Information about how you use the App, including interaction logs and features accessed.
 
-### 1.4 Bluetooth and Location Data
+### 1.4 Bluetooth, Location Data, and Attachments
 - **Bluetooth**: The App uses Bluetooth to connect to external devices (e.g., IMP Readers).
-- **Location Services**: Location data is used **for authentication, app functionality, and tracking scan events**.  
-- **Cloud Storage**: Every scan performed by the App **includes location data, date/time, and scan ID** and is sent to a secure cloud database for processing and record-keeping.
+- **Location Services**: Location data is used **for authentication, app functionality, and tracking scan events**.
+- **Cloud Storage**: Every scan performed by the App may include:
+  - **Location data**
+  - **Date/time of the scan**
+  - **User-provided photos, images, and files**
+  - **Scan event ID**
+  - These are securely stored in a cloud database for processing and record-keeping.
 
 ---
 
@@ -35,8 +41,8 @@ We may collect the following types of information from users and their devices:
 
 We use the collected information to:
 - Authenticate and provide secure access to the App.
-- Enable App features that require location and Bluetooth connectivity.
-- Record scan events in a secure cloud database.
+- Enable App features that require **location, Bluetooth connectivity, and file attachments**.
+- Record scan events (including location, images, and files) in a secure cloud database.
 - Maintain and enhance the user experience.
 - Respond to user inquiries and provide support.
 - Comply with legal obligations.
@@ -47,7 +53,7 @@ We use the collected information to:
 
 We do not sell, rent, or share your personal information. However, we may disclose information:
 - **For Legal Compliance**: If required by law or to protect our legal rights.
-- **Cloud Storage Services**: Scan event data (including location) is stored securely in our cloud database.
+- **Cloud Storage Services**: Scan event data (including location, files, and photos) is stored securely in our cloud database.
 
 ---
 
@@ -55,13 +61,18 @@ We do not sell, rent, or share your personal information. However, we may disclo
 
 We store your data securely using industry-standard measures. However, no method of transmission over the internet or electronic storage is 100% secure. We cannot guarantee absolute security but strive to protect your information.
 
+**Storage of Attachments:**
+- Any **photos, images, or files** uploaded by the user as part of a scan event are securely stored in a cloud database.
+- These attachments are **only accessible to authorized users** within the App.
+- Users should avoid uploading **sensitive personal documents or confidential information** unless required.
+
 ---
 
 ## 5. User Rights
 
 Depending on your location, you may have the following rights:
-- **Access and Portability**: Request a copy of the information we hold about you.
-- **Correction and Deletion**: Request corrections or deletion of your information.
+- **Access and Portability**: Request a copy of the information we hold about you, including scan event records.
+- **Correction and Deletion**: Request corrections or deletion of your personal data.
 - **Data Restrictions**: Restrict or object to the processing of your data.
 
 To exercise these rights, contact us at [info@p-chip.com](mailto:info@p-chip.com).
