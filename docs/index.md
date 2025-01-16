@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# IMP Link Documentation
+# IMP Link Papers
 
 - [Privacy Policy](imp-link-privacy-policy.html)
