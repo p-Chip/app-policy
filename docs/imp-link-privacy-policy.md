@@ -27,7 +27,7 @@ We may collect the following types of information from users and their devices:
 
 ### 1.4 Bluetooth, Location Data, and Attachments
 - **Bluetooth**: The App uses Bluetooth to connect to external devices (e.g., IMP Readers).
-- **Location Services**: Location data is used **for authentication, app functionality, and tracking scan events**.
+- **Location Services**: Location data is used for authentication, app functionality, and tracking scan events.
 - **Cloud Storage**: Every scan performed by the App may include:
   - **Location data**
   - **Date/time of the scan event**
